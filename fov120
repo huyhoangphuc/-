@@ -1,0 +1,3 @@
+local camera = workspace.CurrentCamera
+camera.FieldOfView = 120
+print(camera.FieldOfView)
